@@ -1,4 +1,4 @@
-### Hi there 👋
+[![aston's github stats](https://github-readme-stats.astonbitecode.vercel.app/api?username=astonbitecode)](https://astonbitecode.github.io/blog/)
 
 <!--
 **astonbitecode/astonbitecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
