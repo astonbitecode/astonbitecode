@@ -1,4 +1,9 @@
-[![aston's github stats](https://github-readme-stats.astonbitecode.vercel.app/api?username=astonbitecode)](https://astonbitecode.github.io/blog/)
+<a href="https://astonbitecode.github.io/blog/">
+  <img align="center" src="https://github-readme-stats.astonbitecode.vercel.app/api?username=astonbitecode" />
+</a>
+<a href="https://github.com/astonbitecode/">
+  <img align="center" src="https://github-readme-stats.astonbitecode.vercel.app/api/top-langs/?username=astonbitecode" />
+</a>
 
 <!--
 **astonbitecode/astonbitecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
